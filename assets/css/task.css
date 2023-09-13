@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@400;700&family=Montserrat:ital,wght@0,400;0,700;1,400;1,600&family=Poppins:ital,wght@0,700;1,400;1,600&family=Prata&display=swap');
+
+body{
+font-family: "Kanit",sans-serif;
+background-color:rgb(101, 158, 237)
+}
+
+h1 {
+  text-align: center;
+  color:white;
+  margin-top: 50px;
+  padding-top: 30px;
+  
+}
+
+form {
+  display: inline;
+}
+
+main {
+  width: 500px;
+  margin: 7em auto;
+  background-color: #f68166;
+  padding: 20px;
+  border-radius: 28%;
+  border:#eafa34 40px;
+  
+}
+
+
+
+main form input {
+  width: 25em;
+  height: 3em;
+  padding: 0.3em;
+  margin-bottom: 30px;
+  margin-left: 10px;
+  border-radius: 10px;
+
+  
+}
+
+main form button {
+  margin-top: 5em;
+  font-size: 1.1em;
+  border-radius: 10px;
+  
+}
+
+form div {
+  margin-bottom: 30px;
+  margin-left: 10p;
+  
+}
+
+form div:last-of-type {
+  text-align: center;
+}
+
+.contact-card {
+  display: inline-block;
+  width: 400px;
+  text-align: center;
+  background: #eafa34;
+  padding-bottom: 15px;
+  border: 1px solid rgb(201, 193, 33);
+  border-radius: 10px;
+  margin-left: 2em;
+  margin-right: 2em;
+  margin-bottom: 1em;
+}
