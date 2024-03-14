@@ -59,11 +59,11 @@ form div:last-of-type {
 
 .contact-card {
   display: inline-block;
-  width: 400px;
+  width: 250px;
   text-align: center;
-  background: #eafa34;
+  background: #eac96e;
   padding-bottom: 15px;
-  border: 1px solid rgb(201, 193, 33);
+  border: 1px solid #eac96e;
   border-radius: 10px;
   margin-left: 2em;
   margin-right: 2em;
