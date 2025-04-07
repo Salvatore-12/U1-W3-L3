@@ -43,6 +43,7 @@ main form input {
 main form button {
   margin-top: 3em;
   margin-left: 1em;
+  height: 1.8em;
   font-size: 1.1em;
   border-radius: 12px;
   
